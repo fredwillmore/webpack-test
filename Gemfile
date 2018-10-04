@@ -31,11 +31,11 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'capistrano-rails', group: :development
 
 gem 'kaminari'
-# gem 'd3-rails'
-# # gem 'active_model_serializers'
-# gem 'sprockets-es6'
-# gem 'babel-transpiler'
-# gem 'react-rails'
+gem 'd3-rails'
+# gem 'active_model_serializers'
+gem 'sprockets-es6'
+gem 'babel-transpiler'
+gem 'react-rails'
 gem 'haml-rails'
 gem 'bootstrap'
 gem 'pg'
